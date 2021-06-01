@@ -33,6 +33,23 @@
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Vscode%20-%23418ADE.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=%2361DAFB" />
 </div>
 
+<div align="center">
+<img align="left" alt="HTML5" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+  <img align="left" alt="JAVASCRIPT" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+  <img align="left" alt="REACT" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+  <img align="left" alt="CSS" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+  <img align="left" alt="SASS" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+  <img align="left" alt="TYPESCRIPT" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+  <img align="left" alt="WEBPACK" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />
+  <img align="left" alt="GIT" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+  <img align="left" alt="JSX" width="100px" src="https://raw.githubusercontent.com/jsx-ir/logo/master/jsx.png" />
+  <img align="left" alt="Mocha" width="100px" src="https://mpng.subpng.com/20180430/cae/kisspng-mocha-javascript-node-js-test-driven-development-a-chai-sheng-5ae7aa529013f4.9462065815251318585902.jpg" />
+  
+  
+
+</div>
+
+
 
 <!-- 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=andiedrew&theme=tokyonight)
