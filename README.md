@@ -3,6 +3,12 @@
 
 ***
 
+### About me:
+
+* I'm a Software Engineer focusing on sharpening my Front-End skills! I've been coding for fun on and off for the past few years and decided to take a big step in my journey by joining the Front-End program at Turing School of Software & Design. I love to code! I'm passionate about bringing ideas to life that have a great UI/UX with accessability, responsiveness, and TDD.
+
+***
+
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=AndieDrew&theme=nord&show_icons=true"/>
 </p>
