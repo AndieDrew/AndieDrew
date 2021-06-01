@@ -3,9 +3,6 @@
 [![AndieDrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andiedrew)](https://github.com/andiedrew/github-readme-stats)
 
 
-[![asiisii's GitHub stats](https://github-readme-stats.vercel.app/api?username=asiisii)](https://github.com/asiisii/github-readme-stats)
-
-
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
