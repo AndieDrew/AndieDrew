@@ -21,31 +21,46 @@
 
 
 ***
+<h3 > What I'm learning: </h3>
 
-<div align="center">
+<p align="center">
+  <code><img  alt="TYPESCRIPT" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /></code> &nbsp;&nbsp;
   
-  <img  alt="TYPESCRIPT" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-  <img  alt="REACT" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-  <img  alt="REACT-ROUTER" width="100px" src="https://iconape.com/wp-content/png_logo_vector/react-router.png" />
-  <img  alt="JSX" width="100px" src="https://raw.githubusercontent.com/jsx-ir/logo/master/jsx.png" />
-  <img  alt="JAVASCRIPT" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-  <img  alt="NODE.JS" width="100px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" />
-  <img  alt="HTML5" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-  <img  alt="CSS" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-  <img  alt="SASS" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />  
-  <img  alt="WEBPACK" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />
-  <img  alt="GIT" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png" />
-  <img  alt="MOCHA" width="100px" src="https://camo.githubusercontent.com/58045a79a69afea4cab1cea6def6d911fba3956cf5fd683addf41c032aa64088/68747470733a2f2f636c6475702e636f6d2f78465646784f696f41552e737667" />
-  <img  alt="Chai" width="100px" src="https://camo.githubusercontent.com/7ecbd4531436e4f20c1dba52a4fd4ac367cfcc20a2f62cfe7a10f32da306afc6/687474703a2f2f636861696a732e636f6d2f696d672f636861692d6c6f676f2e706e67" />
-  <img  alt="CYPRESS" width="100px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQGhE8jNwjlc3w/company-logo_200_200/0/1554836371931?e=1630540800&v=beta&t=krzGzZyEemJix0dprQoB5S-tZ1YPNmjhbALY33J6G_s" />
-  <img  alt="VSCODE" width="100px" src="https://raw.githubusercontent.com/dhanishgajjar/vscode-icons/master/png/default_dark.png" />
-  <img  alt="ATOM" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />
-  <img  alt="UBUNTU" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1200px-Logo-ubuntu_cof-orange-hex.svg.png" />
-  <img  alt="VSCODE" width="100px" src="https://cdn.iconscout.com/icon/free/png-256/heroku-225989.png" />
-  
-</div>
+</p>
 
+***
+<h3 > Languages: </h3>
 
+<p align="center">
+  <code><img  alt="JSX" width="100px" src="https://raw.githubusercontent.com/jsx-ir/logo/master/jsx.png" /></code> &nbsp;&nbsp;
+  <code><img  alt="JAVASCRIPT" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code> &nbsp;&nbsp;
+  <code><img  alt="HTML5" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code> &nbsp;&nbsp;
+  <code><img  alt="CSS" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code> &nbsp;&nbsp;
+  <code><img  alt="SASS" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /></code> &nbsp;&nbsp;
+</p>
+
+***
+<h3 > Test Driven Development: </h3>
+
+<p align="center">
+<code><img  alt="MOCHA" width="100px" src="https://camo.githubusercontent.com/58045a79a69afea4cab1cea6def6d911fba3956cf5fd683addf41c032aa64088/68747470733a2f2f636c6475702e636f6d2f78465646784f696f41552e737667" /></code> &nbsp;&nbsp;
+<code><img  alt="Chai" width="100px" src="https://camo.githubusercontent.com/7ecbd4531436e4f20c1dba52a4fd4ac367cfcc20a2f62cfe7a10f32da306afc6/687474703a2f2f636861696a732e636f6d2f696d672f636861692d6c6f676f2e706e67" /></code> &nbsp;&nbsp;
+<code><img  alt="CYPRESS" width="100px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQGhE8jNwjlc3w/company-logo_200_200/0/1554836371931?e=1630540800&v=beta&t=krzGzZyEemJix0dprQoB5S-tZ1YPNmjhbALY33J6G_s" /></code> &nbsp;&nbsp;
+</p>
+
+***
+<h3 > Libraries and Tools: </h3>
+
+<p align="center">
+<code><img  alt="REACT" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code> &nbsp;&nbsp;
+<code><img  alt="REACT-ROUTER" width="100px" src="https://iconape.com/wp-content/png_logo_vector/react-router.png" /></code> &nbsp;&nbsp;
+<code><img  alt="NODE.JS" width="100px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></code> &nbsp;&nbsp;
+<code><img  alt="WEBPACK" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" /></code> &nbsp;&nbsp;
+<code><img  alt="GIT" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png" /></code> &nbsp;&nbsp;
+<code><img  alt="VSCODE" width="100px" src="https://raw.githubusercontent.com/dhanishgajjar/vscode-icons/master/png/default_dark.png" /></code> &nbsp;&nbsp;
+<code><img  alt="ATOM" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" /></code> &nbsp;&nbsp;
+<code><img  alt="UBUNTU" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1200px-Logo-ubuntu_cof-orange-hex.svg.png" /></code> &nbsp;&nbsp;
+</p>
 
 
 
