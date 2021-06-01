@@ -8,6 +8,12 @@
 
 ***
 
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndieDrew&langs_count=5&theme=vue&layout=compact"/>
+</p>
+
+***
+<!-- ## My Trophies
 
 
 
