@@ -1,7 +1,19 @@
-### Hi there 👋
+### Welcome to my GitHub! 
 
-[![AndieDrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andiedrew)](https://github.com/andiedrew/github-readme-stats)
+***
 
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=AndieDrew&theme=nord&show_icons=true"/>
+</p>
+
+***
+
+
+
+
+
+<!-- [![AndieDrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andiedrew)](https://github.com/andiedrew/github-readme-stats)
+ -->
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
