@@ -19,7 +19,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndieDrew&langs_count=5&theme=tokyonight&layout=compact"/>
 </p>
 
-
 ***
 <h3 > What I'm learning: </h3>
 
@@ -29,9 +28,11 @@
 </p>
 
 ***
-<h3 > Languages: </h3>
+<h3 > What I know </h3>
 
 <p align="center">
+  <code><img  alt="REACT" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code> &nbsp;&nbsp;
+<code><img  alt="REACT-ROUTER" width="100px" src="https://iconape.com/wp-content/png_logo_vector/react-router.png" /></code> &nbsp;&nbsp;
   <code><img  alt="JSX" width="100px" src="https://raw.githubusercontent.com/jsx-ir/logo/master/jsx.png" /></code> &nbsp;&nbsp;
   <code><img  alt="JAVASCRIPT" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code> &nbsp;&nbsp;
   <code><img  alt="HTML5" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code> &nbsp;&nbsp;
@@ -49,11 +50,9 @@
 </p>
 
 ***
-<h3 > Libraries and Tools: </h3>
+<h3 > Tools: </h3>
 
 <p align="center">
-<code><img  alt="REACT" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code> &nbsp;&nbsp;
-<code><img  alt="REACT-ROUTER" width="100px" src="https://iconape.com/wp-content/png_logo_vector/react-router.png" /></code> &nbsp;&nbsp;
 <code><img  alt="NODE.JS" width="100px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></code> &nbsp;&nbsp;
 <code><img  alt="WEBPACK" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" /></code> &nbsp;&nbsp;
 <code><img  alt="GIT" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png" /></code> &nbsp;&nbsp;
@@ -62,6 +61,9 @@
 <code><img  alt="UBUNTU" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1200px-Logo-ubuntu_cof-orange-hex.svg.png" /></code> &nbsp;&nbsp;
 </p>
 
+***
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=andiedrew&" alt="andiedrew" /></p>
 
 
 
