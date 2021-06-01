@@ -21,6 +21,8 @@
 
 ***
 
+### Toolbelt:
+
 <div align="center">
   <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img alt="javascript" src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=%23231123" />
@@ -31,6 +33,8 @@
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Vscode%20-%23418ADE.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=%2361DAFB" />
 </div>
 
+
+Currently Learning: TypeScript ❤️‍🔥
 <!-- 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=andiedrew&theme=tokyonight)
 [![AndieDrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andiedrew)](https://github.com/andiedrew/github-readme-stats)
