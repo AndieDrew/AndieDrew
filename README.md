@@ -1,6 +1,9 @@
 ### Welcome to my GitHub!
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/andrewrcarlin/)
 
+
+### ![visitors](https://visitor-badge.glitch.me/badge?page_id=andiedrew.andiedrew)
+
 ***
 
 ### About me:
@@ -61,11 +64,3 @@
 ***
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=andiedrew&" alt="andiedrew" /></p>
-
-
-
-
-<!-- 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=andiedrew&theme=tokyonight)
-
- -->
