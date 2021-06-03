@@ -20,12 +20,82 @@
 ***
 <h3 > What I'm learning: </h3>
 
+<p >
+  <img alt="TypeScript" src="https://img.shields.io/badge/-typescript-302f2f?logo=typescript&logoColor=3178C6&style=for-the-badge"/>
+</p>
+
+***
+<h3 > What I know </h3>
+
+<p >
+<img alt="React" src="https://img.shields.io/badge/-React-211f20?logo=react&logoColor=61DAFB&style=for-the-badge"/>
+<img alt="React-Router" src="https://img.shields.io/badge/-React%20Router-211f20?logo=react-router&logoColor=61DAFB&style=for-the-badge"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/-javascript-302f2f?logo=javascript&logoColor=F7DF1E&style=for-the-badge"/>
+  </br>
+<img alt="JSX" src="https://img.shields.io/badge/-jsx-302f2f?logo=javascript&logoColor=9428cb&style=for-the-badge"/>
+<img alt="HTML" src="https://img.shields.io/badge/-html5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
+<img alt="CSS" src="https://img.shields.io/badge/-css-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>
+<img alt="SASS" src="https://img.shields.io/badge/-sass-CC6699?logo=sass&logoColor=white&style=for-the-badge"/>
+</p>
+
+***
+<h3 > Test Driven Development: </h3>
+
+<p >
+<img alt="Mocha" src="https://img.shields.io/badge/-mocha-8D6748?logo=mocha&logoColor=white&style=for-the-badge"/>
+<img alt="Chai" src="https://img.shields.io/badge/-chai-F7EFDF?logo=chai&logoColor=A30701&style=for-the-badge"/>
+<img alt="Cypress" src="https://img.shields.io/badge/-cypress-black?logo=cypress&logoColor=white&style=for-the-badge"/>
+</p>
+
+***
+<h3 > Tools: </h3>
+
+<p >
+<img alt="Node.JS" src="https://img.shields.io/badge/-Node.js-333333?logo=node-dot-js&logoColor=339933&style=for-the-badge"/>
+<img alt="Webpack" src="https://img.shields.io/badge/-webpack-242424?logo=webpack&logoColor=8DD6F9&style=for-the-badge"/>
+<img alt="Git" src="https://img.shields.io/badge/-git-F0F0E8?logo=git&logoColor=F05032&style=for-the-badge"/>
+<img alt="VSCode" src="https://img.shields.io/badge/-VSCode-2C2C32?logo=visual-studio-code&logoColor=007ACC&style=for-the-badge"/>
+<img alt="Atom" src="https://img.shields.io/badge/-atom-363438?logo=atom&logoColor=5FB57D&style=for-the-badge"/>
+<img alt="Ubuntu" src="https://img.shields.io/badge/-ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge"/>
+</p>
+
+***
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=andiedrew&theme=tokyonight" alt="andiedrew" /></p>
+
+
+
+<!-- <img alt="TypeScript" src="https://img.shields.io/badge/-typescript-302f2f?logo=typescript&logoColor=3178C6&style=for-the-badge"/>
+
+<img alt="React" src="https://img.shields.io/badge/-React-211f20?logo=react&logoColor=61DAFB&style=for-the-badge"/>
+<img alt="React-Router" src="https://img.shields.io/badge/-React%20Router-211f20?logo=react-router&logoColor=61DAFB&style=for-the-badge"/>
+<img alt="JSX" src="https://img.shields.io/badge/-jsx-302f2f?logo=javascript&logoColor=9428cb&style=for-the-badge"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/-javascript-302f2f?logo=javascript&logoColor=F7DF1E&style=for-the-badge"/>
+<img alt="HTML" src="https://img.shields.io/badge/-html5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
+<img alt="CSS" src="https://img.shields.io/badge/-css-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>
+<img alt="SASS" src="https://img.shields.io/badge/-sass-CC6699?logo=sass&logoColor=white&style=for-the-badge"/>
+
+<img alt="Mocha" src="https://img.shields.io/badge/-mocha-8D6748?logo=mocha&logoColor=white&style=for-the-badge"/>
+<img alt="Chai" src="https://img.shields.io/badge/-chai-F7EFDF?logo=chai&logoColor=A30701&style=for-the-badge"/>
+<img alt="Cypress" src="https://img.shields.io/badge/-cypress-black?logo=cypress&logoColor=white&style=for-the-badge"/>
+
+<img alt="Node.JS" src="https://img.shields.io/badge/-Node.js-333333?logo=node-dot-js&logoColor=339933&style=for-the-badge"/>
+<img alt="Webpack" src="https://img.shields.io/badge/-webpack-242424?logo=webpack&logoColor=8DD6F9&style=for-the-badge"/>
+<img alt="Git" src="https://img.shields.io/badge/-git-F0F0E8?logo=git&logoColor=F05032&style=for-the-badge"/>
+<img alt="VSCode" src="https://img.shields.io/badge/-VSCode-2C2C32?logo=visual-studio-code&logoColor=007ACC&style=for-the-badge"/>
+<img alt="Atom" src="https://img.shields.io/badge/-atom-363438?logo=atom&logoColor=5FB57D&style=for-the-badge"/>
+<img alt="Ubuntu" src="https://img.shields.io/badge/-ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge"/>
+ -->
+ 
+ 
+<!-- <h3 > What I'm learning: </h3>
+
 <p align="center">
   <img  alt="TYPESCRIPT" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
   
 </p>
 
-***
+
 <h3 > What I know </h3>
 
 <p align="center">
@@ -38,7 +108,7 @@
 <img  alt="SASS" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 </p>
 
-***
+
 <h3 > Test Driven Development: </h3>
 
 <p align="center">
@@ -47,7 +117,7 @@
 <img  alt="CYPRESS" width="80px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQGhE8jNwjlc3w/company-logo_200_200/0/1554836371931?e=1630540800&v=beta&t=krzGzZyEemJix0dprQoB5S-tZ1YPNmjhbALY33J6G_s" />
 </p>
 
-***
+
 <h3 > Tools: </h3>
 
 <p align="center">
@@ -59,6 +129,4 @@
 <img  alt="UBUNTU" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1200px-Logo-ubuntu_cof-orange-hex.svg.png" />
 </p>
 
-***
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=andiedrew&theme=tokyonight" alt="andiedrew" /></p>
+ -->
