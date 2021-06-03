@@ -1,15 +1,12 @@
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/andrewrcarlin/)
+
 <h1 align="center">Hey I'm Andrew 👋🏽 <br/><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=58A5FF&size=24&center=true&vCenter=true&width=540&height=40&lines=console.log('Welcome+to+my+GitHub!')"><br/>
 </h1>
 
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/andrewrcarlin/)
-
-
-***
-
 ### About me:
 
-* I'm a Software Engineer focusing on sharpening my Front-End skills! I've been coding for fun on and off for the past few years and decided to take a big step in my journey by joining the Front-End program at Turing School of Software & Design. I love to code! I'm passionate about bringing ideas to life that have a great UI/UX with accessability, responsiveness, and TDD.
+<p align='center'>I'm a Software Engineer focusing on sharpening my Front-End skills! I've been coding for fun on and off for the past few years and decided to take a big step in my journey by joining the Front-End program at Turing School of Software & Design. I love to code! I'm passionate about bringing ideas to life that have a great UI/UX with accessability, responsiveness, and TDD.</p>
 
 ***
 
