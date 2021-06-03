@@ -25,7 +25,7 @@
 </p>
 
 ***
-<h3 > What I know </h3>
+<h3 > What I know: </h3>
 
 <p >
 <img alt="React" src="https://img.shields.io/badge/-React-211f20?logo=react&logoColor=61DAFB&style=for-the-badge"/>
@@ -57,6 +57,8 @@
   </br>
 <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-2C2C32?logo=visual-studio-code&logoColor=007ACC&style=for-the-badge"/>
 <img alt="Atom" src="https://img.shields.io/badge/-atom-363438?logo=atom&logoColor=5FB57D&style=for-the-badge"/>
+<img alt="Heroku" src="https://img.shields.io/badge/-heroku-431198?logo=heroku&logoColor=white&style=for-the-badge"/>
+</br>
 <img alt="Ubuntu" src="https://img.shields.io/badge/-ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge"/>
 </p>
 
