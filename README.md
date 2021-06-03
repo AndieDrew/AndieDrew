@@ -54,6 +54,7 @@
 <img alt="Node.JS" src="https://img.shields.io/badge/-Node.js-333333?logo=node-dot-js&logoColor=339933&style=for-the-badge"/>
 <img alt="Webpack" src="https://img.shields.io/badge/-webpack-242424?logo=webpack&logoColor=8DD6F9&style=for-the-badge"/>
 <img alt="Git" src="https://img.shields.io/badge/-git-F0F0E8?logo=git&logoColor=F05032&style=for-the-badge"/>
+  </br>
 <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-2C2C32?logo=visual-studio-code&logoColor=007ACC&style=for-the-badge"/>
 <img alt="Atom" src="https://img.shields.io/badge/-atom-363438?logo=atom&logoColor=5FB57D&style=for-the-badge"/>
 <img alt="Ubuntu" src="https://img.shields.io/badge/-ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge"/>
