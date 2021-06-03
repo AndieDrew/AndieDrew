@@ -25,6 +25,8 @@
 </p>
 
 ***
+<img align="right" height="355" width="355" alt="" src="./assests/coder.gif" />
+
 <h3 > What I know: </h3>
 
 <p >
@@ -64,7 +66,7 @@
 
 ***
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=andiedrew&theme=tokyonight" alt="andiedrew" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=andiedrew&theme=tokyonight" alt="AndieDrew's Stats" /></p>
 
 
 
