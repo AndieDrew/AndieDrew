@@ -8,7 +8,9 @@
 
 <p align='center'>I'm a Software Engineer focusing on sharpening my Front-End skills! I've been coding for fun the past few years and decided to take a big step in my journey by joining the Front-End program at Turing School of Software & Design. I love to code! I'm passionate about bringing ideas to life that have a great UI/UX with accessability, responsiveness, and TDD.</p>
 
-***
+
+
+
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=AndieDrew&theme=tokyonight&show_icons=true"/>
@@ -17,15 +19,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndieDrew&langs_count=5&theme=tokyonight&layout=compact"/>
 </p>
 
-***
 <h3 > What I'm learning: </h3>
 
 <p >
   <img alt="TypeScript" src="https://img.shields.io/badge/-typescript-302f2f?logo=typescript&logoColor=3178C6&style=for-the-badge"/>
 </p>
 
-***
-<img align="right" height="355" width="355" alt="" src="./assests/coder.gif" />
+<img align="right" height="355" width="355" alt="" src="./assets/coder.gif" />
 
 <h3 > What I know: </h3>
 
@@ -40,7 +40,7 @@
 <img alt="SASS" src="https://img.shields.io/badge/-sass-CC6699?logo=sass&logoColor=white&style=for-the-badge"/>
 </p>
 
-***
+
 <h3 > Test Driven Development: </h3>
 
 <p >
@@ -49,7 +49,7 @@
 <img alt="Cypress" src="https://img.shields.io/badge/-cypress-black?logo=cypress&logoColor=white&style=for-the-badge"/>
 </p>
 
-***
+
 <h3 > Tools: </h3>
 
 <p >
@@ -64,7 +64,6 @@
 <img alt="Ubuntu" src="https://img.shields.io/badge/-ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge"/>
 </p>
 
-***
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=andiedrew&theme=tokyonight" alt="AndieDrew's Stats" /></p>
 
