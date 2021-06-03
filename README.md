@@ -21,8 +21,9 @@
 
 <h3 > What I'm learning: </h3>
 
-<p >
+<p>
   <img alt="TypeScript" src="https://img.shields.io/badge/-typescript-302f2f?logo=typescript&logoColor=3178C6&style=for-the-badge"/>
+  <img alt="Redux" src="https://img.shields.io/badge/-redux-211f20?logo=redux&logoColor=764ABC&style=for-the-badge"/>
 </p>
 
 <img align="right" height="355" width="355" alt="" src="./assets/coder.gif" />
