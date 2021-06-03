@@ -15,7 +15,7 @@
 <p align='center'> 
   <img src="https://github-readme-stats.vercel.app/api?username=AndieDrew&theme=tokyonight&show_icons=true"/>
 
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=andiedrew&theme=tokyonight" alt="AndieDrew's Stats" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndieDrew&langs_count=5&theme=tokyonight&layout=compact"/>
 </p>
 
 <h3 > What I'm learning: </h3>
@@ -65,7 +65,7 @@
 </p>
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndieDrew&langs_count=5&theme=tokyonight&layout=compact"/></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=andiedrew&theme=tokyonight" alt="AndieDrew's Stats" /> </p>
 
 
 
