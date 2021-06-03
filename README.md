@@ -13,9 +13,9 @@
 
 
 <p align='center'> 
-  <img width="450" src="https://github-readme-stats.vercel.app/api?username=AndieDrew&theme=tokyonight&show_icons=true"/>
+  <img width="440" src="https://github-readme-stats.vercel.app/api?username=AndieDrew&theme=tokyonight&show_icons=true"/>
   
-  <img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=andiedrew&theme=tokyonight" alt="AndieDrew's Stats" />
+  <img width="440" src="https://github-readme-streak-stats.herokuapp.com/?user=andiedrew&theme=tokyonight" alt="AndieDrew's Stats" />
 </p>
 
 <h3 > What I'm learning: </h3>
