@@ -1,4 +1,9 @@
 ### Welcome to my GitHub!
+
+<h1 align="center">Hey I'm Andrew 👋🏽 <br/><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=58A5FF&size=24&center=true&vCenter=true&width=540&height=40&lines=console.log('Welcome+to+my+GitHub!')"><br/>
+</h1>
+
+
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/andrewrcarlin/)
 
 
