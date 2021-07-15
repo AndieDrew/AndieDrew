@@ -31,6 +31,7 @@
 
 <p >
 <img alt="React" src="https://img.shields.io/badge/-React-211f20?logo=react&logoColor=61DAFB&style=for-the-badge"/>
+<img alt="ContextAPI" src="https://img.shields.io/badge/-Context_API-211f20?logo=react&logoColor=61DAFB&style=for-the-badge"/>
 <img alt="React-Router" src="https://img.shields.io/badge/-React%20Router-211f20?logo=react-router&logoColor=61DAFB&style=for-the-badge"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/-javascript-302f2f?logo=javascript&logoColor=F7DF1E&style=for-the-badge"/>
   </br>
