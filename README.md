@@ -53,6 +53,7 @@
 <h3 > Tools: </h3>
 
 <p >
+<img alt="TravisCI" src="https://img.shields.io/badge/-Travis_CI-D9D192?logo=travis-ci&logoColor=C63148&style=for-the-badge"/>
 <img alt="Node.JS" src="https://img.shields.io/badge/-Node.js-333333?logo=node-dot-js&logoColor=339933&style=for-the-badge"/>
 <img alt="Webpack" src="https://img.shields.io/badge/-webpack-242424?logo=webpack&logoColor=8DD6F9&style=for-the-badge"/>
 <img alt="Git" src="https://img.shields.io/badge/-git-F0F0E8?logo=git&logoColor=F05032&style=for-the-badge"/>
